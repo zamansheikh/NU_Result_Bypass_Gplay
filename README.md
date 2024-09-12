@@ -10,7 +10,8 @@
     
 
 # Download APK
- <a href="https://github.com/mdabdulkayum/NU_Result/releases/download/v1.0.1/NU.Result.apk"> Download </a>
+
+<a href="https://github.com/mdabdulkayum/NU_Result/releases/download/v1.0.1/NU.Result.apk"><img width="200" src="https://github.com/mdabdulkayum/resourceFile/blob/main/image/download_icon.png"> </a>
 
 # Screenshot
 
